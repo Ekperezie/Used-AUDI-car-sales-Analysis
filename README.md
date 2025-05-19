@@ -34,7 +34,8 @@ Data Cleaning Steps:
  
 ## 3. Descriptive Analysis
 ## Overall Overview – All Audi Used Car Sales
-![Image](https://github.com/user-attachments/assets/aa1997d7-b2f5-41e6-bfb5-09db1bac6c2e)
+![total](https://github.com/user-attachments/assets/9b8af8db-44a2-4ac2-929f-0faac6e416d3)
+
 
 
 Total Gross Revenue: £244.26M
