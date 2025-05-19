@@ -3,6 +3,8 @@ Prepared by: [Ekperezie Paul Nmeri]
  
 ## Executive Summary
 This report provides a comprehensive analysis of used Audi car sales in the United Kingdom. The goal is to uncover insights into pricing trends, popular models, market demand, and factors influencing resale value. The findings offer data-driven recommendations to assist dealerships, marketers, and decision-makers.
+
+link to the original data set 
  
 ## 1. Introduction
 The used car market is a vital component of the UK's automotive industry. Audi, a premium automobile brand, maintains a strong presence in the used vehicle segment. This analysis focuses on:
@@ -32,6 +34,7 @@ Data Cleaning Steps:
  
 ## 3. Descriptive Analysis
 ## Overall Overview – All Audi Used Car Sales
+![total](https://github.com/user-attachments/assets/a7f066c1-7c44-49f2-b112-ce31c79e7272)
 
 Total Gross Revenue: £244.26M
 Total Sales: 10.67K units
@@ -46,6 +49,8 @@ Insight: The used Audi market in the UK is dominated by high-end models with aut
 # Fuel Type Breakdown & Analysis
 
 ## 1. Petrol Vehicles
+![petrol](https://github.com/user-attachments/assets/1f4023c3-bc39-412e-be3e-0132257188af)
+
 Gross Revenue: £113.82M
 Total Sales: 5.06K units
 Tax Collected: £674.93K
@@ -59,6 +64,8 @@ Petrol Audis contribute nearly half of the overall revenue, with high demand for
 ---
 
 ## 2. Hybrid Vehicles
+![hybrid](https://github.com/user-attachments/assets/b792a0f7-74c3-4d86-bc9b-a827fea3b2d2)
+
 Gross Revenue: £845.37K
 Total Sales: 28 units
 Tax Collected: £2.04K
@@ -72,6 +79,8 @@ The hybrid segment is small but features high-value models. Limited sales volume
 ---
 
 ## 3. Diesel Vehicles
+![diesel](https://github.com/user-attachments/assets/2e8f5b70-3f52-447d-b763-36ef53717b54)
+
 Gross Revenue: £129.60M
 Total Sales: 5.58K units
 Tax Collected: £667.33K
