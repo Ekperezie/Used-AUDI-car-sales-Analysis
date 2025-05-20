@@ -4,7 +4,7 @@ Prepared by: [Ekperezie Paul Nmeri]
 ## Executive Summary
 This report provides a comprehensive analysis of used Audi car sales in the United Kingdom. The goal is to uncover insights into pricing trends, popular models, market demand, and factors influencing resale value. The findings offer data-driven recommendations to assist dealerships, marketers, and decision-makers.
 
-link to the original data set ( https://github.com/Ekperezie/Used-AUDI-car-sales-Analysis/blob/main/iuo.csv )
+link to the original data set ( https://github.com/Ekperezie/Used-AUDI-car-sales-Analysis/blob/main/audi.csv )
  
 ## 1. Introduction
 The used car market is a vital component of the UK's automotive industry. Audi, a premium automobile brand, maintains a strong presence in the used vehicle segment. This analysis focuses on:
